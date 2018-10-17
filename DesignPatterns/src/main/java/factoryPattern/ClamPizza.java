@@ -1,6 +1,6 @@
 package factoryPattern;
 
-public class ClamPizza implements Pizza {
+public class ClamPizza extends Pizza {
     @Override
     public void prepare() {
 

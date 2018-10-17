@@ -1,6 +1,7 @@
 package factoryPattern;
 
-public class PepperoniPizza extends Pizza {
+public class ChicagoStyleVeggiePizza extends Pizza {
+
     @Override
     public void prepare() {
 
